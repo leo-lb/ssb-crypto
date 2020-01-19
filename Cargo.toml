@@ -11,5 +11,5 @@ readme = "README.md"
 keywords = ["ssb", "scuttlebutt", "crypto"]
 
 [dependencies]
-libsodium-sys = "~0.2.5"
-sodiumoxide = "~0.2.5"
+libsodium-sys = "0.2.5"
+sodiumoxide = "0.2.5"
